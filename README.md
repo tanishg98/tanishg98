@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Tiempos+Headline&weight=700&size=64&duration=1&pause=99999&color=1A1A1A&center=true&vCenter=true&repeat=false&width=600&height=84&lines=Tanish+Girotra" alt="Tanish Girotra" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1&pause=99999&color=CC785C&center=true&vCenter=true&repeat=false&width=720&height=30&lines=Head+of+Product+%C2%B7+Shiprocket+India+%C2%B7+Building+AI+products+solo" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1&pause=99999&color=CC785C&center=true&vCenter=true&repeat=false&width=720&height=30&lines=CEO%27s+Office+%C2%B7+Shiprocket+%C2%B7+Building+everything+with+AI" alt="subtitle"/>
 
 <br/>
 
@@ -17,7 +17,10 @@
 
 <br/>
 
-![snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanishg98/tanishg98/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/tanishg98/tanishg98/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -30,14 +33,15 @@
 ### 👋 Hey, I'm Tanish
 
 ```yaml
-role        : Head of Product · Shiprocket (India's largest D2C logistics platform)
+role        : CEO's Office · Shiprocket (India's largest D2C logistics platform)
+mandate     : Building everything with AI — internal tools, customer products, infra
 location    : Gurugram, India
 focus       : AI products for Indian D2C operators
 weekends    : Side projects, framework hacking, /cto autopilot
 philosophy  : Distribution + Data + AI = the rarest moat
 ```
 
-I lead AI product at **Shiprocket** by day. By night I build personal AI tooling — frameworks, agents, and shipped products that try out hypotheses I can't fit into the day job.
+I work out of the **CEO's Office at Shiprocket** — building everything with AI across internal tooling and customer-facing products. By night I build personal AI tooling — frameworks, agents, and shipped products that test hypotheses I can't fit into the day job.
 
 > *"Compression makes a 14-day v1 real with the right rails."*
 
@@ -258,8 +262,8 @@ Terminal dino-jumper for when Claude is thinking. Pure Python stdlib, animated s
 ## 🎯 What I'm Optimising For
 
 ```yaml
-day_job        :  Head of Product, Shiprocket India
-                  AI for D2C operators · 100K+ sellers · returns + RTO + WhatsApp
+day_job        :  CEO's Office, Shiprocket India
+                  Building everything with AI · 100K+ sellers · returns + RTO + WhatsApp
 weekends       :  Personal frameworks · agents · shipped side products
                   Tanker, Persona Studio, AutoMoney, side projects
 moat           :  Distribution + Data + AI — the rarest combination
@@ -267,7 +271,7 @@ operating_mode :  Solo + Claude Max + Tanker. Hours/days, not SaaS-months.
 end_goal       :  AI products that actually work in production for Indian SMBs
 ```
 
-I'm not a full-time framework builder. I'm a head of product who needs to ship. Tanker, Persona Studio, and the rest are what I built when I needed them and they didn't exist.
+I'm not a full-time framework builder. I work out of the CEO's Office at Shiprocket and ship AI on tight loops. Tanker, Persona Studio, and the rest are what I built when I needed them and they didn't exist.
 
 > *"Build boldly. Ship the v1. Iterate in public."*
 
@@ -313,6 +317,6 @@ I'm not a full-time framework builder. I'm a head of product who needs to ship. 
 
 <br/><br/>
 
-*Tanish Girotra · Head of Product, Shiprocket India · Gurugram*
+*Tanish Girotra · CEO's Office, Shiprocket · Gurugram*
 
 </div>
