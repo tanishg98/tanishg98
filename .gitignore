@@ -1,0 +1,6 @@
+
+# Added pre-migration
+.env
+.env.*
+.env.bak
+*.env
