@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1500&color=CC785C&center=true&vCenter=true&width=720&height=32&lines=Shipping+AI+products+for+Indian+D2C+%F0%9F%87%AE%F0%9F%87%B3;Building+Tanker+%E2%80%94+Claude+Code+framework+%F0%9F%9B%A0%EF%B8%8F;Persona+Studio+%E2%80%94+AI+influencer+studio+%F0%9F%93%B8;AutoMoney+%E2%80%94+Zerodha+intraday+bot+%F0%9F%93%88;%2B+side+projects+on+the+weekends+%F0%9F%9A%80" alt="What I'm Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1500&color=CC785C&center=true&vCenter=true&width=720&height=32&lines=Shipping+AI+products+for+Indian+D2C+%F0%9F%87%AE%F0%9F%87%B3;40%2B+repos+this+year%2C+mostly+private+%F0%9F%94%92;Tanker+%C2%B7+Claude+Code+framework+%F0%9F%9B%A0%EF%B8%8F;AI+employees+%C2%B7+agent+brains+%C2%B7+trading+bots+%F0%9F%A4%96;Building+everything+with+AI%2C+solo+%2B+Claude+%F0%9F%9A%80" alt="What I'm Building"/>
 
 <br/>
 
@@ -209,6 +209,39 @@ Terminal dino-jumper for when Claude is thinking. Pure Python stdlib, animated s
 </table>
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       THE LAB                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧪 The Lab
+
+Most of my work ships to private repos: **40+ this year alone**. A curated slice of what I've been building, across AI employees, agent memory, and personal tooling. 🔒 = private.
+
+<div align="center">
+
+| Project | What it is | |
+|---|---|:---:|
+| **Rocketizer** | AI employees for Indian D2C operators | 🔒 |
+| **Merchant Brain / Dispatch** | Graph-backed knowledge brain agents chat over | 🔒 |
+| **Buyer Brain** | Cross-merchant buyer intelligence vectors | 🔒 |
+| **Brain Engine** | Local semantic retrieval over a personal corpus | 🔒 |
+| **NDR Agent** | Context-aware delivery-exception decisioning | 🔒 |
+| **ShiprocketGPT** | Commerce assistant as a ChatGPT app | 🔒 |
+| **ZingLinks** | Social-commerce links + lightweight OMS | 🔒 |
+| **Hookline** | AI creative strategist for D2C brands | 🔒 |
+| **Memory Benchmark** | Eval harness for LLM memory architectures | 🔒 |
+| **Fitness Brain** | Health data → structured coaching agent | 🔒 |
+| **Finance Advisor** | Multi-desk personal finance agent | 🔒 |
+| **UniClaw** | Multi-tenant ops command center | 🔒 |
+| **[Tanker](https://github.com/tanishg98/tanker)** | Claude Code framework · `/cto` autopilot | 🌐 |
+| **[claude-teach-skill](https://github.com/tanishg98/claude-teach-skill)** | Spaced-retrieval tutor inside Claude Code | 🌐 |
+
+</div>
+
+<sub>Private repos are Shiprocket / personal work. Happy to walk through the interesting bits in a conversation.</sub>
 
 ---
 
